@@ -1,0 +1,6 @@
+
+
+pip install tensorflow
+pip install Keras
+pip install gradio
+pip install gtts
